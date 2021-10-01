@@ -1,0 +1,10 @@
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\bin\Debug\threads_characters.exe.config
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\bin\Debug\threads_characters.exe
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\bin\Debug\threads_characters.pdb
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.csprojAssemblyReference.cache
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.Form1.resources
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.Properties.Resources.resources
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.csproj.GenerateResource.cache
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.csproj.CoreCompileInputs.cache
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.exe
+D:\IT_Step_Academy\MP\hw_threads\threads_characters\obj\Debug\threads_characters.pdb

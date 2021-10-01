@@ -1,0 +1,10 @@
+D:\IT_Step_Academy\MP\hw_threads\task2\bin\Debug\task2.exe.config
+D:\IT_Step_Academy\MP\hw_threads\task2\bin\Debug\task2.exe
+D:\IT_Step_Academy\MP\hw_threads\task2\bin\Debug\task2.pdb
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.Form1.resources
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.Properties.Resources.resources
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.csproj.GenerateResource.cache
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.exe
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.pdb
+D:\IT_Step_Academy\MP\hw_threads\task2\obj\Debug\task2.csprojAssemblyReference.cache
